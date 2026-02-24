@@ -4,11 +4,11 @@ This project develops a machine learning solution to identify metastatic cancer 
 
 ## Table of Contents
 
-* [About the Project](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?filename=README.md#about-the-project)
-* [Dataset](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?filename=README.md#dataset)
-* [Methodology](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?filename=README.md#methodology)
-* [Results](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?filename=README.md#results)
-* [Installation](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?filename=README.md#installation)
+* [About the Project](https://github.com/Gear2382/Histopathologic-Cancer-Detection?tab=readme-ov-file#about-the-project)
+* [Dataset](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?tab=readme-ov-file#dataset)
+* [Methodology](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?tab=readme-ov-file#methodology)
+* [Results](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?tab=readme-ov-file#results)
+* [Installation](https://github.com/Gear2382/Histopathologic-Cancer-Detection/new/main?tab=readme-ov-file#installation)
 
 ## About the Project
 
